@@ -1,0 +1,7 @@
+[{"nombre":"Introduccion a la Ingernieria Quimica", "descripcion": "Induccion a los procesos en la ingenieria quimica, balances de materia y principios basicos","profesor":"Mauricio Gonzalez","Semestre":1},
+{"nombre":"Algoritmica y programacion orientada a objetos I","descripcion":"Principios de programacion, conceptos de requerimientos funcionales, no funcionales, objetos, clases, etc","profesor":"Darwin Quintero","Semestre":1},
+{"nombre":"Introduccion a la problematica ambiental","descripcion":"Analisis de las principales problematicas ambientales actuales y como el ambientalismo aficionado afecta el estudio de la problematica","profesor":"Sergio Barrera","Semestre":1},
+{"nombre":"Quimica inorganica I","descripcion":"Estudio general de la quimica inorganica, introduccion a pruebas de titulacion","profesor":"Juan Carlos Moreno", "Semestre":1},
+{"nombre":"Caculo diferencial","descripcion":"Estudio de calculo diferencial, es decir enfocado en comportamiento de funciones y derivadas","profesor":"Aquiles Paramo","Semestre":1},
+{"nombre":"Fisica I","descripcion":"Estudio de fuerzas aplicadas sobre un objeto, introduccion al balance de fuerzas","profesor":"Carlos Avila","Semestre":1}]
+
